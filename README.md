@@ -1,4 +1,4 @@
-### Hi guys👋
+## Hi guys👋
 
 I'm **Shintyadhita**. Currently, I am pursuing my study in **Informatics Major** at UPN "Veteran" Jawa Timur. 
 
@@ -9,7 +9,7 @@ I'm **Shintyadhita**. Currently, I am pursuing my study in **Informatics Major**
 
 Let's connect and collaborate on exciting projects 💼!
 
-### My Github Statistic
+## My Github Statistic
 <p align="left">
 <a href="https://github.com/shintyadhitawputri">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shintyadhitawputri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
